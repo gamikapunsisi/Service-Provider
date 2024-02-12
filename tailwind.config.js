@@ -6,7 +6,12 @@ export default {
     "./resources/**/*.vue",
   ],
   theme: {
-    extend: {},
+    extend: {
+      'raleway': ['Raleway', 'sans-serif'],
+      backdropBlur: {
+        xs: '2px',
+      },
+    },
   },
   plugins: [],
 }
