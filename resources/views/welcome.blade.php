@@ -451,7 +451,7 @@
                     <span class="ml-4 text-yellow-500">
                         <i class="fas fa-search"></i>
                     </span>
-                    <input type="text" id="searchInput" placeholder="What are you looking for?..." class="px-4 py-2 text-gray-800 bg-gray-700 rounded-full w-500 focus:outline-none focus:shadow-outline-blue focus:border-blue-300" onkeydown="if (event.key === 'Enter') searchFunction()">
+                    <input type="text" id="searchInput" placeholder="What are you looking for?...." class="px-4 py-2 text-gray-800 bg-gray-700 rounded-full w-500 focus:outline-none focus:shadow-outline-blue focus:border-blue-300" onkeydown="if (event.key === 'Enter') searchFunction()">
                 </div> --}}
                 
                 <div class="flex items-center justify-center border border-red-500 h-26">
